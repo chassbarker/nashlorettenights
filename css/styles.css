@@ -1,1 +1,133 @@
+body {
+    font-family: "bernard mt", condensed;
 
+
+}
+
+nav {
+    background-color: #ed0972;
+
+    b0x-shadow: 0px 0px 15px rgb {
+        0 0 0/30%);
+        display: flex;
+        justify-content: space-between: padding: 1rem 2rem;
+    }
+
+    nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex: gap: 2rem;
+
+    }
+
+        {
+        img.bg {
+            min-height: 10 min-width: 102 width: 100%;
+            height: auto;
+            position: fixe top: 0;
+            left 0;
+        }
+
+        img.bg {
+            min-height: 100%;
+            min-width: 1024px;
+            width: 100%;
+            height: auto;
+            position: fixed;
+            top: 0;
+            left 0;
+        }
+
+
+        @media screen and (max-width: 1024) {
+            nav {
+                flex-direction: column;
+                align-right;
+                gap 1rem;
+
+            }
+        }
+
+        img.bg {
+            left: 501%;
+            margin-left: -512px;
+        }
+    }
+
+    nav ul li a (text-decoration: none;
+        font-size: 22px;
+        color: #0747c9;
+        font-weight:300;
+
+
+    ) .logo img {
+        width: 300px;
+
+        .btn {
+            padding: 1rem 2rem;
+            background;
+            #ed0972;
+            border-radius: 14px;
+            text-decoration: none;
+            color: #ed0972 border: none;
+        }
+
+        header {
+            background: url ("../images/nashlorettenightsbackground.jpg") background-size:cover;
+            box-shadow;
+            inset 0 0 0 1800px color: alice-blue;
+            padding: 10rem 2rem;
+            text-align: center;
+
+            color: #0747c9 @media screen and (max-widyh: 1024px) {
+                header {
+                    padding 7 rem 2 rem;
+
+                }
+            }
+        }
+
+        header p {
+            max-width: 400px;
+            font-size: 30px;
+            margin: 0 auto 4 rem auto;
+
+        }
+
+        header .btn [ max-width: 400px;
+        font-size: 30px;
+        margin: 0;
+
+        ] h1,
+        h2,
+        h3,
+        h4 {
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif,
+                font-color #0747c9;
+            font-size: 14px;
+        }
+    }
+
+    h1 {
+        font-size: 120px;
+        margin: 0;
+
+        @media screen and (max-width: 1024) {
+            font-size 25px
+        }
+    }
+
+    <p>This is a paragraph.</p><h2>Honky Tonk Bars</h2><section "class= paragraph:  padding-center: 3 rem;
+ font-family: bernard mt condensed,
+    font-color: #0747c9,
+    font-size: 14 px"
+ <p>This is a paragraph.</p><h3>Activities</h3><section "class= paragraph  padding-center: 3 rem;
+ font-family: bernard mt condensed,
+    font-color: #0747c9,
+    font-size: 14 px"
+ <p>This is a paragraph.</p><h4>Places to Stay</h4><section "class= paragraph:  padding-center: 3 rem;
+ font-family: bernard mt condensed,
+    font-color: #0747c9,
+    font-size: 14 px"
+ <p>This is a paragraph.</p></body></html>
